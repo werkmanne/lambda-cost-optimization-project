@@ -1,4 +1,4 @@
-# AWS Cloud Cost Optimization - Identifying Stale Resources _ Prohject Bello
+# AWS Cloud Cost Optimization - Identifying Stale Resources
 
 ## Identifying Stale EBS Snapshots
 
